@@ -1,4 +1,4 @@
 //your JS code here. If required.
 window.onload=()=>{
-	document.innerHTML="DOM load success";
+	document.body.innerHTML="DOM load success";
 }
